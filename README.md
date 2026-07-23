@@ -55,7 +55,7 @@ Class distribution: **73.5% non-churn, 26.5% churn** (mild imbalance).
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/churn-predictor.git
+git clone https://github.com/InvictusMonolith/churn-predictor.git
 cd churn-predictor
 
 2. Install dependencies
