@@ -119,8 +119,8 @@ churn-predictor/
 ├── .gitignore                   # Files to ignore in version control
 ├── app/
 │   └── Churn_pro.py             # Streamlit app
-├── notebooks/
-│   └── Untitled.ipynb           # Model training notebook
+├── notebook/
+│   └── ChurnPredictor.ipynb           # Model training notebook
 ├── models/                      # Pre-trained artifacts
 │   ├── churn_model.joblib       # Logistic Regression model
 │   ├── churn_scaler.joblib      # StandardScaler
