@@ -8,7 +8,7 @@ A machine learning project that predicts the probability of a telecom customer c
 ![App Screenshot](#) *(<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2996d3e7-59ff-4878-a104-8865c74dffbb" />
 )*
 
-Note: the API is hosted on Render's free tier, which spins down after inactivity — the first prediction after a period of no traffic may take 10-30 seconds while the service wakes up. Subsequent requests are fast.
+Note: the API is hosted on Render's free tier, which spins down after inactivity — the first prediction after a period of no traffic may take 20-50 seconds while the service wakes up. Subsequent requests are fast.
 
 ---
 
