@@ -2,10 +2,13 @@
 
 A machine learning project that predicts the probability of a telecom customer churning — built end-to-end from raw customer data to a containerized, publicly deployed prediction API with a live interface.
 
-**[Live API](#)** *(add your Render URL here)*
-**[Live Demo](#)** *(add your Streamlit deployment link here)*
+**[Live API](#)** *(https://churn-api-backend.onrender.com)*
+**[Live Demo](#)** *(https://predictor-churn.streamlit.app/)*
 
-![App Screenshot](#) *(add a screenshot of the Streamlit app here)*
+![App Screenshot](#) *(<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2996d3e7-59ff-4878-a104-8865c74dffbb" />
+)*
+
+Note: the API is hosted on Render's free tier, which spins down after inactivity — the first prediction after a period of no traffic may take 10-30 seconds while the service wakes up. Subsequent requests are fast.
 
 ---
 
